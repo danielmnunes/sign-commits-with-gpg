@@ -1,2 +1,1 @@
-# sign-commits-with-gpg
-Sign commits with GPG keys
+# Sign commits with GPG keys
